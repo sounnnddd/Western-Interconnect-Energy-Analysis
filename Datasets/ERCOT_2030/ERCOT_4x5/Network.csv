@@ -1,0 +1,4 @@
+Network_zones,Network_Lines,z1,z2,z3,Line_Max_Flow_MW,Line_Min_Flow_MW,transmission_path_name,Line_Reinforcement_Cost_per_MWyr,Line_Reinforcement_Cost_per_MW,Line_Loss_Percentage,Line_Max_Reinforcement_MW
+z1,1.0,1.0,0.0,-1.0,3332.0,3332.0,ERC_PHDL_to_ERC_WEST,0.0,0.0,0.0,2332.0
+z2,2.0,0.0,1.0,-1.0,16529.0,16529.0,ERC_REST_to_ERC_WEST,40537.0,836869.0,0.0566,11570.0
+z3,,,,,,,,,,,
